@@ -5,7 +5,7 @@
   <title>KardViN - Klinikportal</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css">
 </head>
 <body>
   <div id="app">Laddar KardViN...</div>
@@ -13,7 +13,8 @@
     window.$docsify = {
       name: 'KardViN-app',
       loadSidebar: true,
-      subMaxLevel: 2,
+      homepage: 'home.md', // KRITISK: Detta tar bort 404-felet
+      auto2top: true,      // Scrollar upp till toppen vid sidbyte
       search: {
         placeholder: 'Sök i kliniska rutiner...',
         noData: 'Inga resultat hittades',

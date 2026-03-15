@@ -1,6 +1,6 @@
 <div style="display: grid; grid-gap: 10px; grid-template-columns: 1fr;">
-  <a href="#/studier/hfref" style="background:#005fa3; color:white; padding:25px; border-radius:8px; text-align:center; text-decoration:none; font-weight:bold; font-size:1.1em;">EF ≤ 40% (HFrEF)</a>
-  <a href="#/studier/hfpef" style="background:#005fa3; color:white; padding:25px; border-radius:8px; text-align:center; text-decoration:none; font-weight:bold; font-size:1.1em;">EF > 40% (HFmrEF/HFpEF)</a>
+  <a href="#/studier/hfref" style="background:#004a89; color:white; padding:25px; border-radius:10px; text-align:center; text-decoration:none; font-weight:bold; font-size:1.2em;">EF ≤ 40%</a>
+  <a href="#/studier/hfpef" style="background:#004a89; color:white; padding:25px; border-radius:10px; text-align:center; text-decoration:none; font-weight:bold; font-size:1.2em;">EF > 40%</a>
 </div>
 
 <br>

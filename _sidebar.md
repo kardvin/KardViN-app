@@ -7,7 +7,7 @@
 
 * **Katalog**
   * [Avd/Konsult](katalog/avd-konsult.md)
-  * [Admin/Ssk ViN](katalog/admin-ssk.md.
+  * [Admin/Ssk ViN](katalog/admin-ssk.md).
 
 * **CDS**
   * [ViN AI](cds/vin-ai.md)

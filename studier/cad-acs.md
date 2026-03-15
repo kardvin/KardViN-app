@@ -1,0 +1,6 @@
+# Akut koronart syndrom (ACS) - Studier
+
+* **PLATO:** Ticagrelor vs Clopidogrel...
+* **TRITON-TIMI 38:** Prasugrel...
+
+[⬅ Tillbaka till CAD](#/studier/cad)

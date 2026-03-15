@@ -4,4 +4,3 @@
 </div>
 
 <br>
-[⬅ Tillbaka till Hjärtsvikt](#/studier/hjärtsvikt)

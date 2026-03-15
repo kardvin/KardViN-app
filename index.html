@@ -5,7 +5,20 @@
   <title>KardViN - Klinikportal</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Döljer automatisk rubrik från filnamn/H1 */
+    section.content h1:first-child {
+      display: none;
+    }
+    .markdown-section {
+      padding-top: 10px !important;
+    }
+    /* Tar bort understrykning på knappar */
+    .markdown-section a {
+      text-decoration: none !important;
+    }
+  </style>
 </head>
 <body>
   <div id="app">Laddar KardViN...</div>
@@ -13,13 +26,9 @@
     window.$docsify = {
       name: 'KardViN-app',
       loadSidebar: true,
-      homepage: 'home.md', // KRITISK: Detta tar bort 404-felet
-      auto2top: true,      // Scrollar upp till toppen vid sidbyte
-      search: {
-        placeholder: 'Sök i kliniska rutiner...',
-        noData: 'Inga resultat hittades',
-        depth: 6
-      }
+      homepage: 'home.md',
+      subMaxLevel: 2,
+      search: 'auto'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

@@ -5,4 +5,3 @@
 </div>
 
 <br>
-[⬅ Tillbaka till CAD](#/studier/cad)

@@ -1,6 +1,5 @@
-# Kroniskt koronart syndrom (CCS) - Studier
+# Kroniskt koronart syndrom (CCS)
 
-* **ISCHEMIA:** Initial Invasive vs Conservative Strategy...
-* **ORBITA:** PCI vs Placebo för stabil angina...
+* **STICH-SWEDEHEART**
 
 [⬅ Tillbaka till CAD](#/studier/cad)

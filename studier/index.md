@@ -9,4 +9,3 @@
 </div>
 
 <br>
-[⬅ Tillbaka till Hem](#/)

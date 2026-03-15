@@ -7,4 +7,3 @@
 </div>
 
 <br>
-[⬅ Tillbaka till Studier](#/studier/index)

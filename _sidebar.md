@@ -2,7 +2,7 @@
 
 * **Studier**
   * [CAD](studier/cad.md)
-  * [Hjärtsvikt](studier/hjartsvikt.md)
+ * [Hjärtsvikt](studier/hf.md)
   * [Förmaksflimmer](studier/ff.md)
 
 * **Katalog**

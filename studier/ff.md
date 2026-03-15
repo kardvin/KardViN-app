@@ -2,6 +2,3 @@
   <a href="#/studier/ff/ierv" style="background:#0072c6; color:white; padding:20px; border-radius:8px; text-align:center; text-decoration:none; font-weight:bold;">IERV</a>
   <a href="#/studier/ff/oceanic-af" style="background:#0072c6; color:white; padding:20px; border-radius:8px; text-align:center; text-decoration:none; font-weight:bold;">OCEANIC-AF</a>
 </div>
-
-<br>
-[⬅ Tillbaka till FF](#/studier/ff)

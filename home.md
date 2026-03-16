@@ -5,5 +5,5 @@
 
   <a href="#/katalog" style="background:#28a745; color:white; height: 90px; display: flex; align-items: center; justify-content: center; border-radius: 16px; text-decoration: none; font-weight: bold; font-size: 1.3em;">📞 Katalog</a>
 
-  <a href="#/cds" style="background:#6f42c1; color:white; height: 90px; display: flex; align-items: center; justify-content: center; border-radius: 16px; text-decoration: none; font-weight: bold; font-size: 1.3em;">🧠 CDS / Beslutsstöd</a>
+  <a href="#/cds" style="background:#6f42c1; color:white; height: 90px; display: flex; align-items: center; justify-content: center; border-radius: 16px; text-decoration: none; font-weight: bold; font-size: 1.3em;">🩺 Klinisk Beslutsstöd</a>
 </div>
